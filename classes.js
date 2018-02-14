@@ -27,4 +27,10 @@ function two () {
 }
 // CREATE FUNCTION three HERE
 
+function three () {
+  var three = document.getElementById('three')
+
+  three.classList.add('purple')
+}
+
 // CREATE FUNCTION makeVisible HERE
